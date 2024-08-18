@@ -16,7 +16,7 @@ Read **at least one** of the following:
 * [Unclosure Project](https://unclosure.scholarslab.org/About/)
 
 
-## Tuesday, February 13, 2024
+## Tuesday, October 8
 
 * icebreaker: 
 * copyright 101 
@@ -39,7 +39,9 @@ Read **at least one** of the following:
 * You will be doing some research on your potential topic, so take a moment to assess how you're feeling about that topic and what direction you might want to take.
 
 
-## Thursday, February 15, 2024
+## Thursday, October 10, Reading Days
+
+XXXXX
 
 * icebreaker: 
 * Visit from librarian friends Amira Walker and Jenny Carlos. 

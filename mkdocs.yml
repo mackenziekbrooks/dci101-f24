@@ -9,7 +9,7 @@ theme:
       - navigation.sections
 
   palette: 
-    primary: light green    
+    primary: green
 
   logo: images/noun-tv-culture.png
   favicon: images/noun-tv-culture.png

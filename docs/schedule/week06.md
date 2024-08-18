@@ -7,7 +7,7 @@
 * Read: [The Interface as Discourse](https://journals.sagepub.com/doi/full/10.1177/1461444814520873) - Mel Stanfill, New Media & Society. This is a tough one, but give it your best shot. We'll discuss thoroughly in class.
 
 
-## Tuesday, February 20, 2024
+## Tuesday, October 15
 * icebreaker: You are building your dream house - what one room or feature must you include?
 * Activity 6.1 - 5 min paper. How do you relate to visual design? Think about the websites/apps you visit most. Setting aside the content, why do you return? Are the websites easy/hard to use? What makes them that way? Is there a style of website you prefer and why? What makes you trust a website?
 * Reading discussion 
@@ -28,7 +28,7 @@
 * [When the Designer Shows Up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design) - ProPublica
 
 
-## Thursday, February 22, 2024
+## Thursday, October 17
 * icebreaker 
 * Guest speaker: Prof. Rachel Levit Ades (Philosophy + Mudd Center) will talk to us about design, ethics, web accessibility, and image alt text. [Find her slides here.](https://docs.google.com/presentation/d/1jXdQauh501LZK8mwa2u0d90pu8NxkipI4Ak_lS6zXwY/edit?invite=CLOy5YIB#slide=id.g2bb5336a496_0_239)
 

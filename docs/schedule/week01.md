@@ -3,7 +3,7 @@
 In our first week, let's unpack what we even mean by digital culture and information. How do we define something that we are surrounded by every day? How do we talk about it? Study it? Analyze it? Critique it?
 
 
-## Thursday, January 11
+## Thursday, September 5
 
 Agenda:
 
@@ -23,7 +23,7 @@ Agenda:
 * Read: [The Problem with the Data-Information-Knowledge-Wisdom Hierarchy](https://hbr.org/2010/02/data-is-to-info-as-info-is-not)
 
 
-## Tuesday, January 16
+## Tuesday, September 10
 * Icebreaker: Favorite snow day activity?
 * Discussion - what is data? information? digital? Let's work on defining terms and understanding how they fit together.
 * Part 1: What is data, information, knowledge, and wisdom? At your table, brainstorm 1) keywords 2) your own definitions and 3) definitions from our readings or elsewhere on the web. Add them to the white board. 
@@ -47,7 +47,7 @@ Agenda:
 * Read: [Does Digital Scholarship Have a Future?](https://er.educause.edu/articles/2013/8/does-digital-scholarship-have-a-future) - Ed Ayers
 
 
-## Thursday, January 18
+## Thursday, September 12
 * icebreaker: 
 * Discussion
 	* what is (digital) culture? 2 min paper
@@ -59,7 +59,7 @@ Agenda:
 
 ## Week 1 Assignments
 
-**Due by Tuesday at 12pm**
+**Due by Tuesday 9/17 at 12pm**
 
 ### Blog post #1
 

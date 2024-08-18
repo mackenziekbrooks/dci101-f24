@@ -7,7 +7,7 @@
 * [When Maps Lie](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps)
 
 
-## Tuesday, March 12, 2024
+## Tuesday, October 29
 * icebreaker: where is your favorite place?
 * Recap homework 
 * Activity 9.1: To start thinking spatially, let's create a map from scratch.
@@ -26,7 +26,7 @@
 * Check out [Maps That Changed Our World](https://www.loc.gov/ghe/cascade/index.html?appid=ddf9824ff56b4fb6a0f3e11515716738&loclr=blogmap&bookmark=150%20AD) and [Land and Legacy](http://landandlegacy.scholarslab.org/) for examples of a digital essays. 	
 * [You Can't Shop Your Way Out of a Monopoly](https://pluralistic.net/2024/03/05/the-map-is-not-the-territory/) - Scroll down a bit to get to the meat of this post. This is a great example of the type of investigation that your digital essay could conduct.
 
-## Thursday, March 14, 2024
+## Thursday, October 31
 * icebreaker: favorite tree on campus? 
 * Event notice: [Stephanie Stillo tomorrow at 12:15pm in Harte Gallery](https://columns.wlu.edu/stephanie-stillo-from-the-library-of-congress-to-host-discussion-on-the-history-of-book-illustrations/)
 * Project update > don't forget to [sign up for a meeting time](https://wlu.app.box.com/notes/1459517142280)! We will **not** meet as a class on Tuesday. 

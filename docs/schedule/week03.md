@@ -12,7 +12,7 @@
 	* [Crime Prediction Software Promised to be Free of Biases. New Data Shows It Perpetuates Them](https://themarkup.org/prediction-bias/2021/12/02/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them) - The Markup (also pay attention to the format/experience of this piece!)
 	* [Missed Connections: What Search Engines Say About Women](https://safiyaunoble.files.wordpress.com/2012/03/54_search_engines.pdf) - Safiya Noble
 
-## Tuesday, January 30, 2024
+## Tuesday, September 24
 * icebreaker:
 * week 2 follow up 
 * Discuss: What is an algorithm?
@@ -35,7 +35,7 @@
 * **your turn!** What articles are catching your eye? Bring in one story about algorithms, AI, or machine learning that you encountered this week. How does this tech and its accompanying issues manifest in your major/field/culture/areas of interest? Maybe you babysit have encountered these [weird Youtube videos](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2). Maybe you're wondering about [algorithms and sports betting](https://theathletic.com/3554635/2022/09/01/sports-betting-and-financial-markets/)? Or you're [planning to go to law school and want to know more about ChatGPT](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4626276)?
 
 
-## Thursday, February 1, 2024
+## Thursday, September 26
 * Icebreaker:
 * Project chat 
 * Discuss + define: readings, AI, your articles! 

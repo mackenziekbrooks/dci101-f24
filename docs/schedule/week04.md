@@ -7,7 +7,7 @@
 * [Defining Data for Humanities](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/) - Owens
 * [Data + Design](https://trinachi.github.io/data-design-builds/ch01.html) - Chapters 1, 7, 12. Take a look around at the rest.
 
-## Tuesday, February 6, 2024
+## Tuesday, October 1
 * icebreaker: what item have you lost that you want the universe to give back?
 * what were your apps for good? 
 * readings discussion
@@ -48,7 +48,7 @@
  * [What Gets Counted Counts](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) - D'Ignazio and Klein
 * [Data + Design](https://trinachi.github.io/data-design-builds/ch17.html) - Chapter 17
 
-## Thursday, February 8, 2024
+## Thursday, October 3
 * icebreaker: do you have a collection? Is it organized? How?
 * readings discussion at your table: 
     * What's your biggest takeaway from the reading this week? What's the thesis?

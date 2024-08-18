@@ -6,7 +6,7 @@
 * Read [Text Analysis Coursebook](http://walshbr.com/textanalysiscoursebook/) - read sections Issues in Digital Text Analysis, Close Reading, Cyborg Readers, Reading at Scale
 
 
-## Tuesday, March 5, 2024
+## Tuesday, October 22
 
 * icebreaker
 * homework recap
@@ -26,7 +26,8 @@
 	* See [assignment description](../../assignments/#proposal). You should plan to write a complete draft as possible (250 words at least). You can ask a lot of questions, but you need to put in the time to really figure out what you're doing! We'll have individual consultations on Tuesday of Week 9 to chat about your project and get you ready to submit your final proposal. 
 
 
-## Thursday, March 7, 2024
+## Thursday, October 24
+
 * icebreaker: 
 * Let's brainstorm some research questions before we embark on these tech challenges today.
 

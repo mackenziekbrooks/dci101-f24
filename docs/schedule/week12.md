@@ -2,36 +2,36 @@
 # Week 12 – Project presentations
 *Let's share!* 
 
-## Tuesday, April 9, 2024 
+## Tuesday, December 3
 
 * Let's do our final presentations in a poster presentation style! Rather than presenting to the whole class, one after another, we'll spread out into multiple rooms and rotate through. You will present from your website, no slides necessary. You should still prepare a bit of an elevator pitch (guiding questions below) but otherwise be ready to answer questions from your classmates. [Signup on this Boxnote](https://wlu.app.box.com/notes/1489480545326). 
 
-## Thursday, April 11, 2024
+## Thursday, December 5
 
 * [Course evaluation](https://forms.office.com/r/hXqWEZkx49) > DO NOT LET ME FORGET!
 * Presentations
 
 
-## Your digital essay is due Friday 4/12 at 11:59pm. 
+## Your digital essay is due Friday 12/6 at 11:59pm. 
 
-## Blog Post 12 is due Friday 4/12 at 11:59pm.
+## Blog Post 12 is due Friday 12/13 at 11:59pm.
 
 In 200-300 words, reflect on the presentations of your classmates. What was impressive? What was unexpected? What was inspiring? As you think about all the projects together, what can you say about digital culture and information? 
 
 **Specs:**
 
-* Due Friday, April 12 at 11:59pm.
+* Due Friday, December 13 at 11:59pm.
 * Create a post on WordPress, turn it in on Canvas.
 * 200-300 words.
 
 
-## Your final reflection is due 4/19 by 5pm. 
+## Your final reflection is due 12/13 by 5pm. 
 
 No project is complete without time taken to reflect on its successes and lessons learned. Talk about your feelings! What have you learned about digital culture and information? What have you learned about yourself and the way you learn new things? 
 
 **Specs:**
 
-* Due Friday, April 19 by 5pm.
+* Due Friday, December 13 by 5pm.
 * Submit as a document in Canvas.
 * 500-1000 words.
 * Address the following. Your answers should be about the course as a whole, not just your project topic.

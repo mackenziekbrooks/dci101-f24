@@ -1,7 +1,7 @@
 # Week 10 – Project work
 *Class this week will be a mix of structured activities and unstructured work time to advance your project’s progress.*
 
-## Tuesday, March 26, 2024
+## Tuesday, November 12
 * icebreaker: 
 * Project planning: take 5 minutes to brain dump your questions, thoughts, feelings, plans about your project. What are you going to get done this week? What do you need help with? What questions do you have for me? 
 * Groups: 
@@ -16,7 +16,8 @@
 
 Create 1-3 data visualizations for peer review! 
 
-## Thursday, March 28, 2024
+## Thursday, November 14
+
 * icebreaker: 
 * data viz peer review 
 * Groups:

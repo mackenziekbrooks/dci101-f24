@@ -6,7 +6,7 @@
 * No assigned readings, but you should be doing more research for your proposal! 
 
 
-## Tuesday, March 19
+## Tuesday, November 5
 
 * No class meeting, instead sign up for an individual meeting on this [Boxnote](https://wlu.app.box.com/notes/1459517142280). If you can't find a time that works. If you have to change your time, email me!
 
@@ -16,7 +16,7 @@
 * Read most of [Chapter 3](https://ebookcentral.proquest.com/lib/wlu/reader.action?docID=5732673) in *History in the Age of Abundance?*. Try to get through the first 13 pages. 
 * Finalize [project proposal](https://mackenziekbrooks.github.io/dci101-w24/assignments/#proposal) due on Thursday!
 
-## Thursday, March 21
+## Thursday, November 7
 
 * icebreaker: what always cheers you up?
 * Heads-up: Prof. Elizabeth Teaff will be observing class today!

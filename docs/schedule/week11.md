@@ -2,7 +2,7 @@
 
 *Class this week will be a mix of structured activities and unstructured work time to advance your project’s progress.*
 
-## Tuesday, April 2, 2024
+## Tuesday, November 19
 * icebreaker: 
 * Wireframing + rapid prototyping
 	* What are your pieces of content? What pages? Visualizations?
@@ -19,7 +19,7 @@
 
 * Prepare 500 words of text for peer review on Thursday. Post to your site for your classmates to view. 
 
-## Thursday, April 4, 2024
+## Thursday, November 21
 
 * Icebreaker: 
 * Essay content peer review time!

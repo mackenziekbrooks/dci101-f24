@@ -8,7 +8,7 @@
 * Browse: [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp)
 * Option if you want more on the history of the internet: [Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
 
-## Tuesday, January 23, 2024
+## Tuesday, September 17
 * icebreaker: lesson learned about W&L
 * Recap Activity log #1 
 * How the Web Works
@@ -23,7 +23,7 @@
 	* [File Not Found](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z) - Chin
 
 
-## Thursday, January 25, 2024
+## Thursday, September 19
 * icebreaker: favorite sandwich?
 * Concluding paragraph from Tuesday.
 * Activity: [Course charter](https://wlu.app.box.com/notes/1425263356541)
@@ -34,7 +34,7 @@
 	* What does it mean to be a digital native? Is this a useful term or not? 
 * Activity: More HTML/CSS.  
 
-## Week 2 Assignments - Due Tuesday 1/30 by 12pm
+## Week 2 Assignments - Due Tuesday 9/24 by 12pm
 
 
 ### Blog post #2 - Where does your Internet come from?
